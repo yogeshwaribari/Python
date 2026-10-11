@@ -7,7 +7,7 @@ Input 5 elements in the array in ascending order :
 
 Input the position where to delete : 3
 
-Expected Output : The new list is : 1 2 3 5'''
+Expected Output : The new list is : 1 2 4 5'''
 n=int(input("Enter Size of array\n"))
 
 list=[0]*n
