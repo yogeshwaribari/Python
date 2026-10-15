@@ -7,5 +7,5 @@ for i in range(n):
     x=int(input("Enter values "))
     a=a+(x,)
     
-c=a*3
+c=a*3  #repeat tuple use '*' operator
 print(c)
